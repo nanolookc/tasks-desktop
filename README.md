@@ -28,7 +28,9 @@ in the background and runs from the next start on.
 - **A timeline that follows the pointer.** Click or draw to create, drag to
   move and resize; the preview shows where the task will land.
 - **Reminders that cannot be missed.** Full screen before a task, at its start
-  and at its end. Start, finish, or push it back: what follows makes room.
+  and at its end. Start, finish, or push it back: what follows makes room. On
+  Linux they keep coming after the window is closed: what stays in the tray
+  takes a few megabytes of memory.
 - **Always in step.** Changes made on the web and on the phone show up as they
   happen.
 
@@ -62,7 +64,8 @@ in the background and runs from the next start on.
 | <kbd>Ctrl</kbd> <kbd>Enter</kbd> | Save the form |
 | <kbd>Esc</kbd> | Cancel a drag, close the form, clear the selection |
 | <kbd>Ctrl</kbd> <kbd>R</kbd>, <kbd>F5</kbd> | Reload |
-| <kbd>Ctrl</kbd> <kbd>W</kbd>, <kbd>Ctrl</kbd> <kbd>Q</kbd> | Close |
+| <kbd>Ctrl</kbd> <kbd>W</kbd> | Close the window |
+| <kbd>Ctrl</kbd> <kbd>Q</kbd> | Quit, leaving nothing in the tray |
 
 In a reminder: <kbd>Enter</kbd> starts or finishes the task, <kbd>1</kbd> and
 <kbd>3</kbd> give it 10 or 30 minutes, <kbd>Esc</kbd> dismisses it. On macOS
